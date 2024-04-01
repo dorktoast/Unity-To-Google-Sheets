@@ -41,4 +41,5 @@ This guide provides a step-by-step process to integrate Unity with Google Sheets
 
 -   Customize the Unity and Google Apps Script code as necessary to fit your project's specific needs.
 -   Ensure you follow Google's guidelines and limitations for Apps Script and web app deployments.
+-   Always follow applicable laws related to data collection from users, including playtesters.
 
